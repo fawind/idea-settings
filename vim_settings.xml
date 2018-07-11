@@ -2,14 +2,108 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/workspace/pace-calculator/webpack.config.js" timestamp="1531345464863">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="52" column="12" />
+        <mark key="^" line="52" column="14" />
+        <mark key="." line="52" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/pace-calculator/src/appProvider.tsx" timestamp="1531343947652">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pace-calculator/src/App.tsx" timestamp="1531344696898">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="1" column="12" />
+      </file>
+      <file name="$USER_HOME$/workspace/pace-calculator/src/index.tsx" timestamp="1531344721602">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/pace-calculator/package.json" timestamp="1531345183018">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="70" />
+        <mark key="." line="6" column="70" />
+        <mark key="^" line="6" column="70" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="4" column="43" filename="$USER_HOME$/workspace/pace-calculator/src/index.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pace-calculator/src/index.tsx" />
+      <jump line="52" column="10" filename="$USER_HOME$/workspace/pace-calculator/webpack.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pace-calculator/webpack.config.js" />
+    </jumps>
+    <registers>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="/" type="4">
+        <text>commonschunk</text>
+      </register>
+      <register name="0" type="4">
+        <text>JSON.stringify(isDev ? 'development' : 'production')</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeyBsb2FkZXI6ICdyZWFjdC1ob3QtbG9hZGVyL3dlYnBhY2snIH0sCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgd2VicGFjay5Ib3RNb2R1bGVSZXBsYWNlbWVudFBsdWdpbigpLAogICAgICAgIG5ldyB3ZWJwYWNrLk5hbWVkTW9kdWxlc1BsdWdpbigpLG5ldyB3ZWJwYWNrLkhvdE1vZHVsZVJlcGxhY2VtZW50UGx1Z2luKCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgd2VicGFjay5Ib3RNb2R1bGVSZXBsYWNlbWVudFBsdWdpbigpLAogICAgICAgIG5ldyB3ZWJwYWNrLk5hbWVkTW9kdWxlc1BsdWdpbigpLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lOiAndmVuZG9yJywKICAgICAgICBtaW5DaHVua3M6IChtb2R1bGUpID0+IG1vZHVsZS5jb250ZXh0ICYmIG1vZHVsZS5jb250ZXh0LmluZGV4T2YoJ25vZGVfbW9kdWxlcycpICE9PSAtMSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgbmV3IHdlYnBhY2suRGVmaW5lUGx1Z2luKHsKICAgICAgICAncHJvY2Vzcy5lbnYnOiB7CiAgICAgICAgICBOT0RFX0VOVjogSlNPTi5zdHJpbmdpZnkoaXNEZXYgPyAnZGV2ZWxvcG1lbnQnIDogJ3Byb2R1Y3Rpb24nKSwKICAgICAgICB9LAogICAgICB9KSwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBvdmVybGF5OiB0cnVlLAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBoaXN0b3J5QXBpRmFsbGJhY2s6IHRydWUsCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>commonschunk</last-search>
+      <last-offset />
+      <last-pattern>commonschunk</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>commonschunk</entry>
+      </history-search>
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
