@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/minutes/src/components/TestComponent.tsx" timestamp="1540199655209">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/pace-calculator/webpack.config.js" timestamp="1531345560645">
         <mark key="'" line="124" column="0" />
         <mark key="[" line="52" column="12" />
@@ -22,18 +28,30 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/minutes/webpack.config.js" timestamp="1540140876116">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="43" />
-        <mark key="^" line="17" column="43" />
-        <mark key="." line="17" column="43" />
+      <file name="$USER_HOME$/workspace/minutes/src/index.html" timestamp="1540198976299">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/workspace/minutes/webpack.config.js" timestamp="1540199621991">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="31" column="16" />
+        <mark key="]" line="31" column="30" />
+        <mark key="." line="31" column="30" />
+        <mark key="^" line="31" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/tsconfig.json" timestamp="1540140814849">
         <mark key="[" line="20" column="5" />
         <mark key="]" line="20" column="5" />
         <mark key="^" line="21" column="1" />
         <mark key="." line="20" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/minutes/src/index.tsx" timestamp="1540199306466">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/pace-calculator/src/index.tsx" timestamp="1531344721602">
         <mark key="'" line="0" column="0" />
@@ -62,43 +80,45 @@
       <jump line="64" column="27" filename="$USER_HOME$/workspace/pace-calculator/webpack.config.js" />
       <jump line="124" column="0" filename="$USER_HOME$/workspace/pace-calculator/webpack.config.js" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/minutes/webpack.config.js" />
+      <jump line="24" column="20" filename="$USER_HOME$/workspace/minutes/src/index.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/minutes/src/index.tsx" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text>'./index.html'</text>
       </register>
       <register name="/" type="4">
         <text>commonschunk</text>
       </register>
-      <register name="0" type="4">
-        <text>JSON.stringify(isDev ? 'development' : 'production')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBlbnRyeTogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJ3NyYy9pbmRleC50c3gnKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJzdGFydCI6ICJ3ZWJwYWNrIC0tbW9kZSBkZXZlbG9wbWVudCIsCiAgICAiYnVpbGQiOiAid2VicGFjayAtLW1vZGUgcHJvZHVjdGlvbiIKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwYXRocyI6IHsKICAgICAgImNvbXBvbmVudHMvKiI6IFsKICAgICAgICAic3JjL2NvbXBvbmVudHMvKiIKICAgICAgXQogICAgfQo=</text>
+        <text encoding="base64">ICByZXNvbHZlOiB7CiAgICBhbGlhczogewogICAgICAnQHNyYyc6IFBBVEhTLnNyYwogICAgfSwKICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJub0ltcGxpY2l0QW55IjogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgIGV4dGVuc2lvbnM6IFsnLnRzJywgJy50c3gnLCAnLmpzJywgJy5qc3gnLCAnLmpzb24nXSwKICAgIG1vZHVsZXM6IFsnc3JjJywgJ25vZGVfbW9kdWxlcyddLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImVzMjAxNSIsCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByb290OiBwYXRoLnJlc29sdmUoX19kaXJuYW1lKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBub2RlTW9kdWxlczogcGF0aC5yZXNvbHZlKF9fZGlybmFtZSwgJ25vZGVfbW9kdWxlcycpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0iaWNvbiIgdHlwZT0iaW1hZ2UvcG5nIiBocmVmPSJmYXZpY29uLnBuZyI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSJodHRwczovL2FwaXMuZ29vZ2xlLmNvbS9qcy9wbGF0Zm9ybS5qcyIgYXN5bmMgZGVmZXI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyBsb2FkZXI6ICdyZWFjdC1ob3QtbG9hZGVyL3dlYnBhY2snIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -122,7 +142,7 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -130,6 +150,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
