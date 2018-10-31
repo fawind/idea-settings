@@ -21,11 +21,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/minutes/package.json" timestamp="1540981973076">
+      <file name="$USER_HOME$/workspace/minutes/package.json" timestamp="1541006201336">
+        <mark key="a" line="16" column="4" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
-        <mark key="^" line="21" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/src/components/NotesView.tsx" timestamp="1540987379831">
         <mark key="[" line="11" column="15" />
@@ -75,11 +75,12 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/minutes/src/components/edit/main.css" timestamp="1540991986721">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="15" />
+      <file name="$USER_HOME$/workspace/minutes/src/components/edit/main.css" timestamp="1541006515659">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="72" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/src/utils/Utils.ts" timestamp="1540988568123">
         <mark key="[" line="11" column="16" />
@@ -105,11 +106,11 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/minutes/src/components/edit/EditMeeting.tsx" timestamp="1540992308920">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="10" column="36" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/workspace/minutes/src/components/edit/EditMeeting.tsx" timestamp="1541005634999">
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="63" />
+        <mark key="." line="20" column="63" />
+        <mark key="^" line="20" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/pace-calculator/src/appProvider.tsx" timestamp="1531343947652">
         <mark key="[" line="3" column="0" />
@@ -117,11 +118,10 @@
         <mark key="^" line="6" column="5" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/minutes/src/App.tsx" timestamp="1540990177962">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="16" column="3" />
+      <file name="$USER_HOME$/workspace/minutes/src/App.tsx" timestamp="1541002700960">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/tsconfig.json" timestamp="1540983755015">
         <mark key="[" line="13" column="0" />
@@ -134,9 +134,9 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/minutes/src/main.css" timestamp="1540991846375">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/workspace/minutes/src/main.css" timestamp="1541006248447">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="41" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="12" />
       </file>
@@ -173,10 +173,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/minutes/src/components/meetings/Meetings.tsx" />
       <jump line="4" column="15" filename="$USER_HOME$/workspace/minutes/src/components/edit/AddNote.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/minutes/src/components/edit/AddNote.tsx" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/minutes/src/components/edit/main.css" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>-webkit-fill-available</text>
       </register>
       <register name="/" type="4">
         <text>commonschunk</text>
@@ -185,31 +186,31 @@
         <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiAnV29yayBTYW5zJywgc2Fucy1zZXJpZjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aDE+RWRpdDwvaDE+Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBub3JtYWw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlucHV0UHJvcHM9e3sKICAgICAgICAgICAgJ2FyaWEtbGFiZWwnOiAnRGVzY3JpcHRpb24nLAogICAgICAgICAgfX0K</text>
+        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBpbmhlcml0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT17Y2xhc3Nlcy5pbnB1dH0K</text>
+        <text encoding="base64">ICAgICJyZWFjdC1hdXRvc3VnZ2VzdCI6ICJeOS40LjIiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvcmVhY3QtYXV0b3N1Z2dlc3QiOiAiXjkuMy42IiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogOTclOwogICAgd2lkdGg6IDk5JTsKICAgIG1hcmdpbjogYXV0bzsKICAgIG1hcmdpbi10b3A6IDhweDsKICAgIG1hcmdpbi1ib3R0b206IDhweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogYXV0bzsK</text>
+        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBpbmhlcml0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMDsKICAgIHBhZGRpbmc6IDA7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsKICAgIHdpZHRoOiA5OSU7CiAgICBoZWlnaHQ6IDk5JTsK</text>
+        <text encoding="base64">ICAgIHJlc2l6ZTogbm9uZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxlZnQ6IAo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IHRhYmxlLWNlbGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -247,6 +248,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
