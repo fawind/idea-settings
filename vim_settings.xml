@@ -3,6 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/minutes/package.json" timestamp="1541006201336">
+        <mark key="a" line="16" column="4" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/surgery/webapp/src/app/invoice/components/invoice-list.component.ts" timestamp="1541338506734">
+        <mark key="[" line="79" column="22" />
+        <mark key="]" line="79" column="35" />
+        <mark key="^" line="79" column="35" />
+        <mark key="." line="79" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/minutes/src/store/Model.ts" timestamp="1540988621273">
+        <mark key="[" line="93" column="10" />
+        <mark key="]" line="93" column="16" />
+        <mark key="." line="93" column="16" />
+        <mark key="^" line="93" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/pace-calculator/src/appProvider.tsx" timestamp="1531343947652">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="6" column="5" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/minutes/src/index.html" timestamp="1540198976299">
         <mark key="[" line="8" column="9" />
         <mark key="]" line="8" column="11" />
@@ -15,63 +39,30 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/minutes/.tslintrc" timestamp="1540985748446">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="42" column="1" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/minutes/src/index.tsx" timestamp="1540982118336">
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/surgery/webapp/src/app/invoice/components/invoice-letter/invoice-letter.component.ts" timestamp="1541337982425">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="109" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/package.json" timestamp="1541006201336">
-        <mark key="a" line="16" column="4" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
+      <file name="$USER_HOME$/ws/src/Test.java" timestamp="1542206073071" />
       <file name="$USER_HOME$/workspace/minutes/src/components/NotesView.tsx" timestamp="1540987379831">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="48" />
         <mark key="." line="11" column="48" />
         <mark key="^" line="11" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/minutes/src/store/Guest.ts" timestamp="1540983304300">
+      <file name="$USER_HOME$/workspace/minutes/.tslintrc" timestamp="1540985748446">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/src/components/TestComponent.tsx" timestamp="1540199655209">
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-        <mark key="." line="4" column="20" />
+        <mark key="]" line="42" column="1" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pace-calculator/src/App.tsx" timestamp="1531344696898">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="1" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/src/components/edit/AddNote.tsx" timestamp="1540989151191">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/src/store/Stores.ts" timestamp="1540987335557">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="16" column="6" />
-        <mark key="^" line="16" column="6" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/src/components/meetings/MeetingList.ts" timestamp="1540987480569">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/surgery/webapp/src/app/letter/components/letter.component.ts" timestamp="1541337984519">
         <mark key="[" line="14" column="0" />
@@ -84,6 +75,33 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/minutes/src/components/TestComponent.tsx" timestamp="1540199655209">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/minutes/tsconfig.json" timestamp="1540983755015">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/surgery/webapp/src/app/invoice/components/invoice-letter/invoice-letter.component.ts" timestamp="1541337982425">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="109" />
+      </file>
+      <file name="$USER_HOME$/workspace/minutes/src/store/Stores.ts" timestamp="1540987335557">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="6" />
+        <mark key="." line="16" column="6" />
+        <mark key="^" line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/workspace/minutes/src/store/Guest.ts" timestamp="1540983304300">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/minutes/src/components/edit/main.css" timestamp="1541006515659">
         <mark key="'" line="38" column="0" />
         <mark key="[" line="72" column="0" />
@@ -91,63 +109,22 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="72" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/minutes/src/components/meetings/MeetingList.ts" timestamp="1540987480569">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/minutes/src/utils/Utils.ts" timestamp="1540988568123">
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="22" />
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/surgery/webapp/src/app/config/person-details.ts" timestamp="1541338115206">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="6" column="77" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/src/index.tsx" timestamp="1540982118336">
-        <mark key="[" line="8" column="7" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-      </file>
       <file name="$USER_HOME$/workspace/pace-calculator/package.json" timestamp="1531345183018">
         <mark key="[" line="6" column="52" />
         <mark key="]" line="6" column="70" />
         <mark key="." line="6" column="70" />
         <mark key="^" line="6" column="70" />
-      </file>
-      <file name="$USER_HOME$/workspace/surgery/webapp/src/app/invoice/components/invoice-list.component.ts" timestamp="1541338506734">
-        <mark key="[" line="79" column="22" />
-        <mark key="]" line="79" column="35" />
-        <mark key="^" line="79" column="35" />
-        <mark key="." line="79" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/src/store/store.ts" timestamp="1540983272749">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="18" />
-        <mark key="." line="4" column="18" />
-        <mark key="^" line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/src/components/edit/EditMeeting.tsx" timestamp="1541005634999">
-        <mark key="[" line="20" column="39" />
-        <mark key="]" line="20" column="63" />
-        <mark key="." line="20" column="63" />
-        <mark key="^" line="20" column="63" />
-      </file>
-      <file name="$USER_HOME$/workspace/pace-calculator/src/appProvider.tsx" timestamp="1531343947652">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="6" column="5" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/src/App.tsx" timestamp="1541002700960">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/tsconfig.json" timestamp="1540983755015">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/src/Router.tsx" timestamp="1540989184576">
         <mark key="[" line="9" column="29" />
@@ -161,11 +138,17 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/minutes/src/store/Model.ts" timestamp="1540988621273">
-        <mark key="[" line="93" column="10" />
-        <mark key="]" line="93" column="16" />
-        <mark key="." line="93" column="16" />
-        <mark key="^" line="93" column="16" />
+      <file name="$USER_HOME$/workspace/minutes/src/components/edit/EditMeeting.tsx" timestamp="1541005634999">
+        <mark key="[" line="20" column="39" />
+        <mark key="]" line="20" column="63" />
+        <mark key="." line="20" column="63" />
+        <mark key="^" line="20" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/surgery/webapp/src/app/config/person-details.ts" timestamp="1541338115206">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+        <mark key="^" line="6" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/src/components/meetings/Meetings.tsx" timestamp="1540989119316">
         <mark key="'" line="0" column="0" />
@@ -173,6 +156,24 @@
         <mark key="]" line="14" column="19" />
         <mark key="." line="14" column="19" />
         <mark key="^" line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/minutes/src/store/store.ts" timestamp="1540983272749">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/minutes/src/App.tsx" timestamp="1541002700960">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/minutes/src/components/edit/AddNote.tsx" timestamp="1540989151191">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -245,12 +246,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>commonschunk</entry>
-      </history-search>
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
