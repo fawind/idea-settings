@@ -9,10 +9,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/spark-exercise/src/main/scala/CLIConf.scala" timestamp="1545331879194">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/ws/distributed-data-management/build.gradle" timestamp="1542386869712">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/surgery/webapp/src/app/invoice/components/invoice-list.component.ts" timestamp="1541338506734">
         <mark key="[" line="79" column="22" />
@@ -49,13 +50,6 @@
         <mark key="]" line="8" column="7" />
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
-      </file>
-      <file name="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" timestamp="1545331725604">
-        <mark key="'" line="132" column="0" />
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="130" column="35" />
-        <mark key="." line="4" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/src/components/NotesView.tsx" timestamp="1540987379831">
         <mark key="[" line="11" column="15" />
@@ -143,12 +137,6 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/ws/spark-exercise/src/main/scala/Sindy.scala" timestamp="1545332060255">
-        <mark key="[" line="130" column="41" />
-        <mark key="]" line="130" column="41" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="130" column="41" />
-      </file>
       <file name="$USER_HOME$/workspace/minutes/src/main.css" timestamp="1541006248447">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="41" />
@@ -185,11 +173,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/spark-exercise/build.sbt" timestamp="1545331805656">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/minutes/src/components/edit/AddNote.tsx" timestamp="1540989151191">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="5" column="13" />
@@ -218,53 +201,42 @@
       <jump line="4" column="15" filename="$USER_HOME$/workspace/minutes/src/components/edit/AddNote.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/minutes/src/components/edit/AddNote.tsx" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/minutes/src/components/edit/main.css" />
-      <jump line="40" column="4" filename="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" />
-      <jump line="67" column="18" filename="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" />
-      <jump line="166" column="0" filename="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" />
-      <jump line="157" column="0" filename="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" />
-      <jump line="154" column="0" filename="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" />
-      <jump line="143" column="0" filename="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" />
-      <jump line="128" column="0" filename="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" />
-      <jump line="117" column="0" filename="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" />
-      <jump line="38" column="0" filename="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" />
-      <jump line="47" column="0" filename="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" />
-      <jump line="45" column="40" filename="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" />
-      <jump line="124" column="0" filename="$USER_HOME$/ws/spark-exercise/src/main/scala/SparkExercise.scala" />
+      <jump line="15" column="0" filename="$USER_HOME$/ws/distributed-data-management/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/ws/distributed-data-management/build.gradle" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">ICsgIlxuIg==</text>
+        <text>$errorproneJavacVersion</text>
       </register>
       <register name="/" type="4">
         <text>commonschunk</text>
       </register>
       <register name="0" type="4">
-        <text>inclusionDependencies</text>
+        <text>9+181-r4173-1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBvdXRwdXRGaWxlID0gb3B0W1N0cmluZ10oZGVzY3IgPSAiTmFtZSBvZiB0aGUgb3V0cHV0IGZpbGUuIikK</text>
+        <text encoding="base64">ICAgIGVycm9ycHJvbmVKYXZhYygiY29tLmdvb2dsZS5lcnJvcnByb25lOmVycm9ycHJvbmU6amF2YWM6OSsxODEtcjQxNzMtMSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gbXV0ZSBhc3NlbWJseSBtZXJnZSB3YXJuaW5ncwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gZmF0IGphciBhc3NlbWJseSBzZXR0aW5ncwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gc2V0IG1haW4gY2xhc3MgaW4gbWFuaWZlc3QK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gZGlzYWJsZXMgdGVzdGluZyBmb3IgYXNzZW1ibHkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdjb20uZ29vZ2xlLmVycm9ycHJvbmUnLCBuYW1lOiAnamF2YWMnLCB2ZXJzaW9uOiAnOSsxODEtcjQxNzMtMScK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9jb20uZ29vZ2xlLmVycm9ycHJvbmUvamF2YWMK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ25ldC5sdGd0LmdyYWRsZTpncmFkbGUtZXJyb3Jwcm9uZS1wbHVnaW46MC4wLjMnCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY2hhbmdlIGFzc2VtYmx5IGphciBuYW1lCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXNzZW1ibHlKYXJOYW1lIGluIGFzc2VtYmx5IDo9ICJzaW5keS5qYXIiCg==</text>
+        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9uZXQubHRndC5ncmFkbGUvZ3JhZGxlLWVycm9ycHJvbmUtcGx1Z2luCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -306,9 +278,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
