@@ -9,6 +9,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/minutes/src/material-theme.scss" timestamp="1545506385428">
+        <mark key="[" line="18" column="6" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+      </file>
       <file name="$USER_HOME$/ws/distributed-data-management/build.gradle" timestamp="1542386869712">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="18" column="0" />
@@ -197,6 +203,12 @@
         <mark key="." line="20" column="63" />
         <mark key="^" line="20" column="63" />
       </file>
+      <file name="$USER_HOME$/ws/minutes/angular.json" timestamp="1545507058160">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/surgery/webapp/src/app/config/person-details.ts" timestamp="1541338115206">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="26" />
@@ -261,7 +273,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>className</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>commonschunk</text>
