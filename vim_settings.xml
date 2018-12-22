@@ -203,11 +203,11 @@
         <mark key="." line="20" column="63" />
         <mark key="^" line="20" column="63" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/angular.json" timestamp="1545507058160">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="29" />
-        <mark key="." line="26" column="29" />
-        <mark key="^" line="26" column="29" />
+      <file name="$USER_HOME$/ws/minutes/angular.json" timestamp="1545507465186">
+        <mark key="[" line="25" column="31" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="29" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/surgery/webapp/src/app/config/person-details.ts" timestamp="1541338115206">
         <mark key="[" line="4" column="25" />
@@ -282,31 +282,31 @@
         <text encoding="base64">ICB7IHBhdGg6ICdtZWV0aW5ncycsIGNvbXBvbmVudDogTWVldGluZ0xpc3RDb21wb25lbnQgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAic3JjL2FwcC10aGVtZS5zY3NzIgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyogWW91IGNhbiBhZGQgZ2xvYmFsIHN0eWxlcyB0byB0aGlzIGZpbGUsIGFuZCBhbHNvIGltcG9ydCBvdGhlciBzdHlsZSBmaWxlcyAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxoMT5NZWV0aW5nIElEOiB7e21lZXRpbmcuaWR9fTwvaDE+Cg==</text>
+        <text encoding="base64">LyogWW91IGNhbiBhZGQgZ2xvYmFsIHN0eWxlcyB0byB0aGlzIGZpbGUsIGFuZCBhbHNvIGltcG9ydCBvdGhlciBzdHlsZSBmaWxlcyAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdHlsZXM6IFtdCg==</text>
+        <text encoding="base64">ICAgIDxoMT5NZWV0aW5nIElEOiB7e21lZXRpbmcuaWR9fTwvaDE+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBzdHlsZXM6IFtdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGUucGFyYW1zKHBhcmFtID0+IHsKICAgICAgCiAgICB9KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucm91dGUpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGUucGFyYW1zKHBhcmFtID0+IHsKICAgICAgCiAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFkZE1lZXRpbmcK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucm91dGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
