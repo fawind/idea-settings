@@ -1,11 +1,11 @@
 <scheme name="Gruvbox Dark Soft" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.75" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
-    <option name="CARET_COLOR" value="bbbbbb" />
+    <option name="CARET_COLOR" value="bb0020" />
     <option name="CARET_ROW_COLOR" value="3c3836" />
     <option name="CONSOLE_BACKGROUND_KEY" value="32302f" />
     <option name="FILESTATUS_ADDED" value="629755" />
@@ -35,6 +35,7 @@
     <option name="SELECTION_BACKGROUND" value="665c54" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="TEARLINE_COLOR" value="665c54" />
+    <option name="VISUAL_INDENT_GUIDE" value="665c54" />
     <option name="WHITESPACES" value="505050" />
   </colors>
   <attributes>
@@ -100,7 +101,6 @@
         <option name="FOREGROUND" value="fabd2f" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
         <option name="FOREGROUND" value="32302f" />
@@ -569,9 +569,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
-    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="HANDLEBARS.DATA_PREFIX">
       <value>
         <option name="FOREGROUND" value="83a598" />

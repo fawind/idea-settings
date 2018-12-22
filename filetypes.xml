@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".tslintrc" type="PLAIN_TEXT" />
+      <mapping ext="scss" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
