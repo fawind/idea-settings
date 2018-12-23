@@ -3,17 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/minutes/package.json" timestamp="1541006201336">
-        <mark key="a" line="16" column="4" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/ws/minutes/src/material-theme.scss" timestamp="1545506385428">
         <mark key="[" line="18" column="6" />
         <mark key="]" line="18" column="1" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
+      </file>
+      <file name="$USER_HOME$/ws/minutes/src/app/core/models.ts" timestamp="1545572772295">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="17" />
+        <mark key="^" line="25" column="17" />
+        <mark key="." line="25" column="17" />
       </file>
       <file name="$USER_HOME$/ws/distributed-data-management/build.gradle" timestamp="1542386869712">
         <mark key="'" line="0" column="0" />
@@ -21,11 +21,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeeting.component.ts" timestamp="1545505613945">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="15" />
-        <mark key="." line="9" column="15" />
-        <mark key="^" line="9" column="15" />
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeeting.component.ts" timestamp="1545572883208">
+        <mark key="'" line="9" column="24" />
+        <mark key="[" line="9" column="52" />
+        <mark key="]" line="9" column="70" />
+        <mark key="." line="9" column="52" />
+        <mark key="^" line="9" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/surgery/webapp/src/app/invoice/components/invoice-list.component.ts" timestamp="1541338506734">
         <mark key="[" line="79" column="22" />
@@ -33,18 +34,24 @@
         <mark key="^" line="79" column="35" />
         <mark key="." line="79" column="35" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/meetings/meeting-list.component.ts" timestamp="1545505382849">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="31" />
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/meeting-list.component.ts" timestamp="1545565232257">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="14" column="4" />
+        <mark key="^" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeting.component.css" timestamp="1545505550527">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="74" column="1" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeting.component.css" timestamp="1545571749000">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="8" />
+        <mark key="." line="23" column="8" />
+        <mark key="^" line="23" column="8" />
+      </file>
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeeting.component.ts" timestamp="1545573044161">
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="50" />
+        <mark key="." line="29" column="50" />
+        <mark key="^" line="29" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/src/store/Model.ts" timestamp="1540988621273">
         <mark key="[" line="93" column="10" />
@@ -58,6 +65,15 @@
         <mark key="^" line="6" column="5" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/ws/minutes/node_modules/@angular/cli/lib/config/schema.json" timestamp="1545564681706">
+        <mark key="'" line="155" column="62" />
+      </file>
+      <file name="$USER_HOME$/ws/minutes/package.json" timestamp="1545565073235">
+        <mark key="[" line="5" column="70" />
+        <mark key="]" line="5" column="70" />
+        <mark key="^" line="5" column="70" />
+        <mark key="." line="5" column="70" />
+      </file>
       <file name="$USER_HOME$/workspace/minutes/src/index.html" timestamp="1540198976299">
         <mark key="[" line="8" column="9" />
         <mark key="]" line="8" column="11" />
@@ -70,10 +86,11 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/styles.css" timestamp="1545505840279">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/ws/minutes/src/styles.css" timestamp="1545571612463">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="0" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/src/index.tsx" timestamp="1540982118336">
         <mark key="[" line="8" column="7" />
@@ -81,11 +98,21 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeting.component.html" timestamp="1545573194934">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="47" />
+        <mark key="^" line="2" column="47" />
+        <mark key="." line="2" column="47" />
+      </file>
       <file name="$USER_HOME$/ws/minutes/src/app/meetings/meetings-routing.module.ts" timestamp="1545504676426">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="7" column="57" />
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="57" />
+      </file>
+      <file name="$USER_HOME$/ws/minutes/src/app/core/meeting.service.ts" timestamp="1545572732941">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="19" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/src/components/NotesView.tsx" timestamp="1540987379831">
         <mark key="[" line="11" column="15" />
@@ -112,11 +139,6 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/surgery/webapp/src/app/letter/components/letter.component.ts" timestamp="1541337984519">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="109" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/minutes/src/components/meetings/MeetingList.tsx" timestamp="1540989131890">
         <mark key="[" line="15" column="33" />
         <mark key="]" line="15" column="33" />
@@ -129,26 +151,17 @@
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/minutes/tsconfig.json" timestamp="1540983755015">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/meetings/meetings.module.ts" timestamp="1545504506795">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-        <mark key="^" line="4" column="28" />
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/meetings.module.ts" timestamp="1545572186837">
+        <mark key="[" line="24" column="17" />
+        <mark key="]" line="25" column="15" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="15" />
       </file>
       <file name="$USER_HOME$/ws/minutes/src/app/meetings/add/add-meeting.component.ts" timestamp="1545504490824">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="31" />
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
-      </file>
-      <file name="$USER_HOME$/workspace/surgery/webapp/src/app/invoice/components/invoice-letter/invoice-letter.component.ts" timestamp="1541337982425">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="109" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/src/store/Stores.ts" timestamp="1540987335557">
         <mark key="[" line="16" column="0" />
@@ -161,18 +174,6 @@
         <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/src/components/edit/main.css" timestamp="1541006515659">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="23" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/src/components/meetings/MeetingList.ts" timestamp="1540987480569">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/src/utils/Utils.ts" timestamp="1540988568123">
         <mark key="[" line="11" column="16" />
@@ -204,11 +205,12 @@
         <mark key="." line="20" column="63" />
         <mark key="^" line="20" column="63" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/angular.json" timestamp="1545507465186">
-        <mark key="[" line="25" column="31" />
-        <mark key="]" line="25" column="29" />
-        <mark key="." line="25" column="29" />
-        <mark key="^" line="25" column="29" />
+      <file name="$USER_HOME$/ws/minutes/angular.json" timestamp="1545564664616">
+        <mark key="'" line="86" column="6" />
+        <mark key="[" line="106" column="30" />
+        <mark key="]" line="106" column="28" />
+        <mark key="." line="106" column="28" />
+        <mark key="^" line="106" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/surgery/webapp/src/app/config/person-details.ts" timestamp="1541338115206">
         <mark key="[" line="4" column="25" />
@@ -216,36 +218,16 @@
         <mark key="." line="4" column="26" />
         <mark key="^" line="6" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/minutes/src/components/meetings/Meetings.tsx" timestamp="1540989119316">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="14" column="19" />
-        <mark key="." line="14" column="19" />
-        <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/app.module.ts" timestamp="1545506090917">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-        <mark key="^" line="15" column="24" />
+      <file name="$USER_HOME$/ws/minutes/src/app/app.module.ts" timestamp="1545572200347">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/src/store/store.ts" timestamp="1540983272749">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="4" column="18" />
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/src/App.tsx" timestamp="1541002700960">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/minutes/src/components/edit/AddNote.tsx" timestamp="1540989151191">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -271,57 +253,76 @@
       <jump line="15" column="0" filename="$USER_HOME$/ws/distributed-data-management/build.gradle" />
       <jump line="0" column="0" filename="$USER_HOME$/ws/distributed-data-management/build.gradle" />
       <jump line="73" column="0" filename="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeting.component.css" />
+      <jump line="86" column="6" filename="$USER_HOME$/ws/minutes/angular.json" />
+      <jump line="81" column="14" filename="$USER_HOME$/ws/minutes/node_modules/@angular/cli/lib/config/schema.json" />
+      <jump line="88" column="15" filename="$USER_HOME$/ws/minutes/node_modules/@angular/cli/lib/config/schema.json" />
+      <jump line="91" column="62" filename="$USER_HOME$/ws/minutes/node_modules/@angular/cli/lib/config/schema.json" />
+      <jump line="126" column="19" filename="$USER_HOME$/ws/minutes/node_modules/@angular/cli/lib/config/schema.json" />
+      <jump line="128" column="56" filename="$USER_HOME$/ws/minutes/node_modules/@angular/cli/lib/config/schema.json" />
+      <jump line="152" column="15" filename="$USER_HOME$/ws/minutes/node_modules/@angular/cli/lib/config/schema.json" />
+      <jump line="155" column="62" filename="$USER_HOME$/ws/minutes/node_modules/@angular/cli/lib/config/schema.json" />
+      <jump line="11" column="51" filename="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeeting.component.ts" />
+      <jump line="34" column="0" filename="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeting.component.css" />
+      <jump line="21" column="19" filename="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeting.component.css" />
+      <jump line="62" column="0" filename="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeting.component.css" />
+      <jump line="31" column="0" filename="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeting.component.css" />
+      <jump line="9" column="24" filename="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeeting.component.ts" />
+      <jump line="9" column="17" filename="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeeting.component.ts" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>button</text>
       </register>
       <register name="/" type="4">
-        <text>commonschunk</text>
+        <text>port:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7IHBhdGg6ICdtZWV0aW5ncycsIGNvbXBvbmVudDogTWVldGluZ0xpc3RDb21wb25lbnQgfSwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1lZXRpbmcgPSB7CiAgICAgIGlkOiBuZXdVdWlkKCksCiAgICAgIHRpdGxlOiAnJywKICAgICAgY29udGVudDogJycsCiAgICAgIGNyZWF0ZWQ6IG5ldyBEYXRlKCksCiAgICAgIG1vZGlmaWVkOiBuZXcgRGF0ZSgpLAogICAgICBndWVzdHM6IFtdLAogICAgICB0YWdzOiBbXQogICAgfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAic3JjL2FwcC10aGVtZS5zY3NzIgo=</text>
+        <text encoding="base64">ICBzZWxlY3RvcjogJ2FwcC1yb290JywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0ZW1wbGF0ZTogYAoKICBgLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgPGZvcm0gY2xhc3M9ImNvbnRhaW5lciIgI21lZXRpbmdGb3JtPSJuZ0Zvcm0iIGF1dG9jb21wbGV0ZT0ib2ZmIj4KICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyB0aXRsZS1jb250YWluZXIiPgogICAgICAgICAgICAgIDxidXR0b24gbWF0LWljb24tYnV0dG9uIGNsYXNzPSJoZWFkaW5nIj4KICAgICAgICAgICAgICAgICAgPG1hdC1pY29uPmNsb3NlPC9tYXQtaWNvbj4KICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJ0aXRsZUlucHV0IGhlYWRpbmciCiAgICAgICAgICAgICAgICAgICAgICBbKG5nTW9kZWwpXT0ibWVldGluZy50aXRsZSIKICAgICAgICAgICAgICAgICAgICAgIG5hbWU9InRpdGxlIgogICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IkFkZCBUaXRsZSIvPgogICAgICAgICAgICAgIDxtYXQtZGF0ZXBpY2tlciAjcGlja2VyPjwvbWF0LWRhdGVwaWNrZXI+CiAgICAgICAgICAgICAgPGlucHV0CiAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0iZGF0ZUlucHV0IGhlYWRpbmciCiAgICAgICAgICAgICAgICAgICAgICBbbWF0RGF0ZXBpY2tlcl09InBpY2tlciIKICAgICAgICAgICAgICAgICAgICAgIChjbGljayk9InBpY2tlci5vcGVuKCkiCiAgICAgICAgICAgICAgICAgICAgICBbKG5nTW9kZWwpXT0ibWVldGluZy5jcmVhdGVkIgogICAgICAgICAgICAgICAgICAgICAgbmFtZT0iY3JlYXRlZCIKICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJBZGQgRGF0ZSIvPgogICAgICAgICAgICAgIDxidXR0b24gbWF0LWljb24tYnV0dG9uIGNsYXNzPSJoZWFkaW5nIiB0eXBlPSJzdWJtaXQiPgogICAgICAgICAgICAgICAgICA8bWF0LWljb24+ZG9uZTwvbWF0LWljb24+CiAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxtYXQtZGl2aWRlcj48L21hdC1kaXZpZGVyPgogICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9InN1Yi1oZWFkaW5nIiBwbGFjZWhvbGRlcj0iQWRkIEd1ZXN0Ii8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxtYXQtZGl2aWRlcj48L21hdC1kaXZpZGVyPgogICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9InN1Yi1oZWFkaW5nIiBwbGFjZWhvbGRlcj0iQWRkIFRhZyIvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8bWF0LWRpdmlkZXI+PC9tYXQtZGl2aWRlcj4KICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgICAgICAgPHRleHRhcmVhCiAgICAgICAgICAgICAgICAgICAgICBjZGtUZXh0YXJlYUF1dG9zaXplCiAgICAgICAgICAgICAgICAgICAgICAjYXV0b3NpemU9ImNka1RleHRhcmVhQXV0b3NpemUiCiAgICAgICAgICAgICAgICAgICAgICBjZGtBdXRvc2l6ZU1pblJvd3M9IjIwIgogICAgICAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09Im1lZXRpbmcuY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgIG5hbWU9ImNvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iQWRkIHN1bW1hcnkiPgogICAgICAgICAgICAgIDwvdGV4dGFyZWE+CiAgICAgICAgICA8L2Rpdj4KICAgICAgPC9mb3JtPg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyogWW91IGNhbiBhZGQgZ2xvYmFsIHN0eWxlcyB0byB0aGlzIGZpbGUsIGFuZCBhbHNvIGltcG9ydCBvdGhlciBzdHlsZSBmaWxlcyAqLwo=</text>
+        <text encoding="base64">ICBjb25zdCBtZWV0aW5nID0gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxoMT5NZWV0aW5nIElEOiB7e21lZXRpbmcuaWR9fTwvaDE+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBzdHlsZXM6IFtdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGUucGFyYW1zKHBhcmFtID0+IHsKICAgICAgCiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJkYXRlSW5wdXQgaGVhZGluZyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucm91dGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>commonschunk</last-search>
+      <last-search>port:</last-search>
       <last-offset />
-      <last-pattern>commonschunk</last-pattern>
+      <last-pattern>port:</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>defau</entry>
+        <entry>port</entry>
+        <entry>port:</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
@@ -346,6 +347,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
