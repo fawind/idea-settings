@@ -3,23 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/ws/minutes/src/app/core/core.module.ts" timestamp="1546033469540">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="9" column="24" />
+        <mark key="." line="9" column="24" />
+        <mark key="^" line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/ws/minutes/src/app/core/meeting-store.service.ts" timestamp="1546034595809">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="5" />
+        <mark key="." line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+      </file>
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/meetings-list/meeting-list.component.css" timestamp="1546032436507">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="5" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ws/minutes/src/material-theme.scss" timestamp="1545506385428">
         <mark key="[" line="18" column="6" />
         <mark key="]" line="18" column="1" />
         <mark key="^" line="18" column="1" />
         <mark key="." line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/core/models.ts" timestamp="1545572772295">
-        <mark key="[" line="25" column="14" />
-        <mark key="]" line="25" column="17" />
-        <mark key="^" line="25" column="17" />
-        <mark key="." line="25" column="17" />
-      </file>
-      <file name="$USER_HOME$/ws/distributed-data-management/build.gradle" timestamp="1542386869712">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/ws/minutes/src/app/core/models.ts" timestamp="1546033633102">
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="31" column="23" />
       </file>
       <file name="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeeting.component.ts" timestamp="1545572883208">
         <mark key="'" line="9" column="24" />
@@ -34,11 +46,10 @@
         <mark key="^" line="79" column="35" />
         <mark key="." line="79" column="35" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/meetings/meeting-list.component.ts" timestamp="1545565232257">
-        <mark key="[" line="14" column="4" />
-        <mark key="]" line="18" column="16" />
-        <mark key="." line="14" column="4" />
-        <mark key="^" line="14" column="3" />
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/meeting-list.component.ts" timestamp="1546031167249">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeting.component.css" timestamp="1545571749000">
         <mark key="'" line="31" column="0" />
@@ -47,11 +58,10 @@
         <mark key="." line="23" column="8" />
         <mark key="^" line="23" column="8" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeeting.component.ts" timestamp="1545573044161">
-        <mark key="[" line="29" column="32" />
-        <mark key="]" line="29" column="50" />
-        <mark key="." line="29" column="50" />
-        <mark key="^" line="29" column="50" />
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeeting.component.ts" timestamp="1546035013100">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/src/store/Model.ts" timestamp="1540988621273">
         <mark key="[" line="93" column="10" />
@@ -98,11 +108,12 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeting.component.html" timestamp="1545573194934">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="47" />
-        <mark key="^" line="2" column="47" />
-        <mark key="." line="2" column="47" />
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeting.component.html" timestamp="1546031066232">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
+        <mark key="^" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/ws/minutes/src/app/meetings/meetings-routing.module.ts" timestamp="1545504676426">
         <mark key="[" line="7" column="37" />
@@ -110,9 +121,22 @@
         <mark key="." line="7" column="57" />
         <mark key="^" line="7" column="57" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/core/meeting.service.ts" timestamp="1545572732941">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="19" column="6" />
+      <file name="$USER_HOME$/ws/minutes/src/app/core/meetings-store.service.ts" timestamp="1546033461701">
+        <mark key="[" line="5" column="26" />
+        <mark key="]" line="5" column="32" />
+        <mark key="^" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/ws/minutes/src/app/core/meeting.service.ts" timestamp="1546035033479">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="11" column="64" />
+        <mark key="." line="11" column="64" />
+        <mark key="^" line="11" column="64" />
+      </file>
+      <file name="$USER_HOME$/ws/minutes/src/app/core/meeting-service-provider.service.ts" timestamp="1546035326989">
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="26" column="2" />
+        <mark key="." line="26" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/src/components/NotesView.tsx" timestamp="1540987379831">
         <mark key="[" line="11" column="15" />
@@ -126,7 +150,12 @@
         <mark key="^" line="8" column="56" />
         <mark key="." line="8" column="56" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app-theme.scss" timestamp="1545563524617" />
+      <file name="$USER_HOME$/ws/minutes/src/app/core/indexdb.service.ts" timestamp="1546032777250">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/workspace/minutes/.tslintrc" timestamp="1540985748446">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="42" column="1" />
@@ -145,17 +174,24 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="15" column="33" />
       </file>
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/meetings-list/meeting-list.component.ts" timestamp="1546035456071">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="26" />
+        <mark key="]" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+        <mark key="^" line="26" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/minutes/src/components/TestComponent.tsx" timestamp="1540199655209">
         <mark key="[" line="4" column="19" />
         <mark key="]" line="4" column="20" />
         <mark key="^" line="4" column="20" />
         <mark key="." line="4" column="20" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/meetings/meetings.module.ts" timestamp="1545572186837">
-        <mark key="[" line="24" column="17" />
-        <mark key="]" line="25" column="15" />
-        <mark key="." line="25" column="15" />
-        <mark key="^" line="25" column="15" />
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/meetings.module.ts" timestamp="1546031856077">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="23" column="29" />
+        <mark key="." line="23" column="29" />
+        <mark key="^" line="23" column="29" />
       </file>
       <file name="$USER_HOME$/ws/minutes/src/app/meetings/add/add-meeting.component.ts" timestamp="1545504490824">
         <mark key="[" line="11" column="13" />
@@ -211,6 +247,12 @@
         <mark key="]" line="106" column="28" />
         <mark key="." line="106" column="28" />
         <mark key="^" line="106" column="28" />
+      </file>
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/meetings-list/meeting-list-entry.component.ts" timestamp="1546032367981">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/surgery/webapp/src/app/config/person-details.ts" timestamp="1541338115206">
         <mark key="[" line="4" column="25" />
@@ -268,43 +310,52 @@
       <jump line="31" column="0" filename="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeting.component.css" />
       <jump line="9" column="24" filename="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeeting.component.ts" />
       <jump line="9" column="17" filename="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeeting.component.ts" />
+      <jump line="8" column="7" filename="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeting.component.html" />
+      <jump line="20" column="9" filename="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeting.component.html" />
+      <jump line="41" column="0" filename="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeting.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeting.component.html" />
+      <jump line="11" column="8" filename="$USER_HOME$/ws/minutes/src/app/meetings/meetings-list/meeting-list.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/ws/minutes/src/app/meetings/meetings-list/meeting-list.component.ts" />
+      <jump line="28" column="14" filename="$USER_HOME$/ws/minutes/src/app/core/meeting-service-provider.service.ts" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>button</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
         <text>port:</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1lZXRpbmcgPSB7CiAgICAgIGlkOiBuZXdVdWlkKCksCiAgICAgIHRpdGxlOiAnJywKICAgICAgY29udGVudDogJycsCiAgICAgIGNyZWF0ZWQ6IG5ldyBEYXRlKCksCiAgICAgIG1vZGlmaWVkOiBuZXcgRGF0ZSgpLAogICAgICBndWVzdHM6IFtdLAogICAgICB0YWdzOiBbXQogICAgfTsK</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcml2YXRlIG1lZXRpbmdTdG9yZVNlcnZpY2U6IE1lZXRpbmdTdG9yZVNlcnZpY2UpIHt9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzZWxlY3RvcjogJ2FwcC1yb290JywK</text>
+        <text encoding="base64">CmV4cG9ydCBjbGFzcyBNZWV0aW5nU2VydmljZSB7CgoKfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB0ZW1wbGF0ZTogYAoKICBgLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBwcml2YXRlIG1lZXRpbmdzOiBNZWV0aW5nSW5kZXggPSB7fTsKCiAgcHJpdmF0ZSBjb25zdHJ1Y3Rvcihwcml2YXRlIG1lZXRpbmdTdG9yZVNlcnZpY2U6IE1lZXRpbmdTdG9yZVNlcnZpY2UpIHsKICB9CgogIGFzeW5jIGluaXQoKSB7CiAgICB0aGlzLm1lZXRpbmdzID0gYXdhaXQgdGhpcy5tZWV0aW5nU3RvcmVTZXJ2aWNlLmdldE1lZXRpbmdzKCk7CiAgfQoKICBjcmVhdGVNZWV0aW5nKCk6IE1lZXRpbmcgewogICAgY29uc3QgbWVldGluZyA9IHsKICAgICAgaWQ6IG5ld1V1aWQoKSwKICAgICAgdGl0bGU6ICcnLAogICAgICBjb250ZW50OiAnJywKICAgICAgY3JlYXRlZDogbmV3IERhdGUoKSwKICAgICAgbW9kaWZpZWQ6IG5ldyBEYXRlKCksCiAgICAgIGd1ZXN0czogW10sCiAgICAgIHRhZ3M6IFtdCiAgICB9OwogICAgdGhpcy51cGRhdGVNZWV0aW5nKG1lZXRpbmcpOwogICAgcmV0dXJuIG1lZXRpbmc7CiAgfQoKICBoYXNNZWV0aW5nKGlkOiBzdHJpbmcpOiBib29sZWFuIHsKICAgIHJldHVybiB0aGlzLm1lZXRpbmdzLmhhc093blByb3BlcnR5KGlkKTsKICB9CgogIGdldE1lZXRpbmcoaWQ6IHN0cmluZyk6IE1lZXRpbmcgewogICAgaWYgKCF0aGlzLm1lZXRpbmdzLmhhc093blByb3BlcnR5KGlkKSkgewogICAgICB0aHJvdyBuZXcgRXJyb3IoYE5vIG1lZXRpbmcgZm91bmQgZm9yIGlkICR7aWR9YCk7CiAgICB9CiAgICByZXR1cm4gdGhpcy5tZWV0aW5nc1tpZF07CiAgfQoKICBnZXRNZWV0aW5ncygpOiBNZWV0aW5nW10gewogICAgcmV0dXJuIHRoaXMuc29ydEJ5TW9kaWZpZWQoT2JqZWN0LnZhbHVlcyh0aGlzLm1lZXRpbmdzKSk7CiAgfQoKICBhc3luYyB1cGRhdGVNZWV0aW5nKG1lZXRpbmc6IE1lZXRpbmcpIHsKICAgIHRoaXMubWVldGluZ3NbbWVldGluZy5pZF0gPSBtZWV0aW5nOwogICAgYXdhaXQgdGhpcy5tZWV0aW5nU3RvcmVTZXJ2aWNlLnNldE1lZXRpbmdzKHRoaXMubWVldGluZ3MpOwogIH0KCiAgcHJpdmF0ZSBzb3J0QnlNb2RpZmllZChtZWV0aW5nczogTWVldGluZ1tdKTogTWVldGluZ1tdIHsKICAgIHJldHVybiBtZWV0aW5ncy5zb3J0KChhLCBiKSA9PiBiLm1vZGlmaWVkLmdldFRpbWUoKSAtIGEubW9kaWZpZWQuZ2V0VGltZSgpKTsKICB9</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgPGZvcm0gY2xhc3M9ImNvbnRhaW5lciIgI21lZXRpbmdGb3JtPSJuZ0Zvcm0iIGF1dG9jb21wbGV0ZT0ib2ZmIj4KICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyB0aXRsZS1jb250YWluZXIiPgogICAgICAgICAgICAgIDxidXR0b24gbWF0LWljb24tYnV0dG9uIGNsYXNzPSJoZWFkaW5nIj4KICAgICAgICAgICAgICAgICAgPG1hdC1pY29uPmNsb3NlPC9tYXQtaWNvbj4KICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgICA8aW5wdXQKICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJ0aXRsZUlucHV0IGhlYWRpbmciCiAgICAgICAgICAgICAgICAgICAgICBbKG5nTW9kZWwpXT0ibWVldGluZy50aXRsZSIKICAgICAgICAgICAgICAgICAgICAgIG5hbWU9InRpdGxlIgogICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9IkFkZCBUaXRsZSIvPgogICAgICAgICAgICAgIDxtYXQtZGF0ZXBpY2tlciAjcGlja2VyPjwvbWF0LWRhdGVwaWNrZXI+CiAgICAgICAgICAgICAgPGlucHV0CiAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0iZGF0ZUlucHV0IGhlYWRpbmciCiAgICAgICAgICAgICAgICAgICAgICBbbWF0RGF0ZXBpY2tlcl09InBpY2tlciIKICAgICAgICAgICAgICAgICAgICAgIChjbGljayk9InBpY2tlci5vcGVuKCkiCiAgICAgICAgICAgICAgICAgICAgICBbKG5nTW9kZWwpXT0ibWVldGluZy5jcmVhdGVkIgogICAgICAgICAgICAgICAgICAgICAgbmFtZT0iY3JlYXRlZCIKICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJBZGQgRGF0ZSIvPgogICAgICAgICAgICAgIDxidXR0b24gbWF0LWljb24tYnV0dG9uIGNsYXNzPSJoZWFkaW5nIiB0eXBlPSJzdWJtaXQiPgogICAgICAgICAgICAgICAgICA8bWF0LWljb24+ZG9uZTwvbWF0LWljb24+CiAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxtYXQtZGl2aWRlcj48L21hdC1kaXZpZGVyPgogICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9InN1Yi1oZWFkaW5nIiBwbGFjZWhvbGRlcj0iQWRkIEd1ZXN0Ii8+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxtYXQtZGl2aWRlcj48L21hdC1kaXZpZGVyPgogICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9InN1Yi1oZWFkaW5nIiBwbGFjZWhvbGRlcj0iQWRkIFRhZyIvPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8bWF0LWRpdmlkZXI+PC9tYXQtZGl2aWRlcj4KICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgICAgICAgPHRleHRhcmVhCiAgICAgICAgICAgICAgICAgICAgICBjZGtUZXh0YXJlYUF1dG9zaXplCiAgICAgICAgICAgICAgICAgICAgICAjYXV0b3NpemU9ImNka1RleHRhcmVhQXV0b3NpemUiCiAgICAgICAgICAgICAgICAgICAgICBjZGtBdXRvc2l6ZU1pblJvd3M9IjIwIgogICAgICAgICAgICAgICAgICAgICAgWyhuZ01vZGVsKV09Im1lZXRpbmcuY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgIG5hbWU9ImNvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgICBwbGFjZWhvbGRlcj0iQWRkIHN1bW1hcnkiPgogICAgICAgICAgICAgIDwvdGV4dGFyZWE+CiAgICAgICAgICA8L2Rpdj4KICAgICAgPC9mb3JtPg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBtZWV0aW5nID0gewo=</text>
+        <text encoding="base64">ICBzdGF0aQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>c MeetingService = class {
+    
+  }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJkYXRlSW5wdXQgaGVhZGluZyIK</text>
+        <text encoding="base64">ICBzdGF0aWMgbQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBwcml2YXRlIG1lZXRpbmdzOiBNZWV0aW5nSW5kZXggPSB7fTsKCiAgY29uc3RydWN0b3IocHJpdmF0ZSBtZWV0aW5nU3RvcmVTZXJ2aWNlOiBNZWV0aW5nU3RvcmVTZXJ2aWNlKSB7fQoKICBhc3luYyBsb2FkKCkgewogICAgdGhpcy5tZWV0aW5ncyA9IGF3YWl0IHRoaXMubWVldGluZ1N0b3JlU2VydmljZS5nZXRNZWV0aW5ncygpOwogIH0KCiAgY3JlYXRlTWVldGluZygpOiBNZWV0aW5nIHsKICAgIGNvbnN0IG1lZXRpbmcgPSB7CiAgICAgIGlkOiBuZXdVdWlkKCksCiAgICAgIHRpdGxlOiAnJywKICAgICAgY29udGVudDogJycsCiAgICAgIGNyZWF0ZWQ6IG5ldyBEYXRlKCksCiAgICAgIG1vZGlmaWVkOiBuZXcgRGF0ZSgpLAogICAgICBndWVzdHM6IFtdLAogICAgICB0YWdzOiBbXQogICAgfTsKICAgIHRoaXMudXBkYXRlTWVldGluZyhtZWV0aW5nKTsKICAgIHJldHVybiBtZWV0aW5nOwogIH0KCiAgaGFzTWVldGluZyhpZDogc3RyaW5nKTogYm9vbGVhbiB7CiAgICByZXR1cm4gdGhpcy5tZWV0aW5ncy5oYXNPd25Qcm9wZXJ0eShpZCk7CiAgfQoKICBnZXRNZWV0aW5nKGlkOiBzdHJpbmcpOiBNZWV0aW5nIHsKICAgIGlmICghdGhpcy5tZWV0aW5ncy5oYXNPd25Qcm9wZXJ0eShpZCkpIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKGBObyBtZWV0aW5nIGZvdW5kIGZvciBpZCAke2lkfWApOwogICAgfQogICAgcmV0dXJuIHRoaXMubWVldGluZ3NbaWRdOwogIH0KCiAgZ2V0TWVldGluZ3MoKTogTWVldGluZ1tdIHsKICAgIHJldHVybiB0aGlzLnNvcnRCeU1vZGlmaWVkKE9iamVjdC52YWx1ZXModGhpcy5tZWV0aW5ncykpOwogIH0KCiAgYXN5bmMgdXBkYXRlTWVldGluZyhtZWV0aW5nOiBNZWV0aW5nKSB7CiAgICB0aGlzLm1lZXRpbmdzW21lZXRpbmcuaWRdID0gbWVldGluZzsKICAgIGF3YWl0IHRoaXMubWVldGluZ1N0b3JlU2VydmljZS5zZXRNZWV0aW5ncyh0aGlzLm1lZXRpbmdzKTsKICB9CgogIHByaXZhdGUgc29ydEJ5TW9kaWZpZWQobWVldGluZ3M6IE1lZXRpbmdbXSk6IE1lZXRpbmdbXSB7CiAgICByZXR1cm4gbWVldGluZ3Muc29ydCgoYSwgYikgPT4gYi5tb2RpZmllZC5nZXRUaW1lKCkgLSBhLm1vZGlmaWVkLmdldFRpbWUoKSk7CiAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
