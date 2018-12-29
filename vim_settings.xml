@@ -15,10 +15,11 @@
         <mark key="." line="25" column="5" />
         <mark key="^" line="25" column="5" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/core/completion/completion-service.ts" timestamp="1546088727275">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/ws/minutes/src/app/core/completion/completion-service.ts" timestamp="1546101478600">
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="30" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="1" column="48" />
       </file>
       <file name="$USER_HOME$/ws/minutes/src/app/meetings/add/edit-meeeting.component.ts" timestamp="1545572883208">
         <mark key="'" line="9" column="24" />
@@ -157,12 +158,12 @@
         <mark key="^" line="79" column="35" />
         <mark key="." line="79" column="35" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/meetings/edit/chip-completion.component.ts" timestamp="1546091148748">
-        <mark key="'" line="5" column="1" />
-        <mark key="[" line="24" column="82" />
-        <mark key="]" line="24" column="82" />
-        <mark key="." line="24" column="82" />
-        <mark key="^" line="24" column="95" />
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/edit/chip-completion.component.ts" timestamp="1546101429814">
+        <mark key="'" line="15" column="18" />
+        <mark key="[" line="62" column="83" />
+        <mark key="]" line="62" column="81" />
+        <mark key="." line="62" column="81" />
+        <mark key="^" line="62" column="81" />
       </file>
       <file name="$USER_HOME$/ws/minutes/src/app/meetings/meeting-list.component.ts" timestamp="1546031167249">
         <mark key="[" line="14" column="0" />
@@ -390,10 +391,11 @@
       <jump line="9" column="12" filename="$USER_HOME$/ws/minutes/src/app/core/completion/completion-service.ts" />
       <jump line="37" column="8" filename="$USER_HOME$/ws/minutes/src/app/meetings/edit/chip-completion.component.ts" />
       <jump line="5" column="1" filename="$USER_HOME$/ws/minutes/src/app/meetings/edit/chip-completion.component.ts" />
+      <jump line="15" column="18" filename="$USER_HOME$/ws/minutes/src/app/meetings/edit/chip-completion.component.ts" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>tags</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb21wb25lbnRcPg==</text>
