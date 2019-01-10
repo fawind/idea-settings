@@ -9,11 +9,11 @@
         <mark key="." line="18" column="17" />
         <mark key="^" line="18" column="17" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/core/meeting-store.service.ts" timestamp="1546034595809">
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="5" />
-        <mark key="." line="25" column="5" />
-        <mark key="^" line="25" column="5" />
+      <file name="$USER_HOME$/ws/minutes/src/app/core/meeting-store.service.ts" timestamp="1547143159651">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="7" column="43" />
       </file>
       <file name="$USER_HOME$/ws/minutes/src/app/core/completion/completion-service.ts" timestamp="1546101478600">
         <mark key="[" line="1" column="30" />
@@ -419,31 +419,31 @@
         <text encoding="base64">ICAgIGNvbG9yOiAjMjIyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJlMmUiOiAibmcgZTJlIgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogIm5nIHRlc3QiLAo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJlMmUiOiAibmcgZTJlIgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiZ2gtcGFnZXMtZGVwbG95Igo=</text>
+        <text encoding="base64">ICAgICJ0ZXN0IjogIm5nIHRlc3QiLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NhdmUgZGV0ZWN0ZWQnKTsK</text>
+        <text encoding="base64">ICAiZ2gtcGFnZXMtZGVwbG95Igo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5vblNhdmUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoJGV2ZW50LikK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NhdmUgZGV0ZWN0ZWQnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5vblNhdmUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
