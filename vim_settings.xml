@@ -58,12 +58,12 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/meetings/meetings-overview/nav-bar/meeting-search.component.ts" timestamp="1546445523164">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="58" column="31" />
-        <mark key="]" line="58" column="31" />
-        <mark key="." line="58" column="31" />
-        <mark key="^" line="58" column="31" />
+      <file name="$USER_HOME$/ws/minutes/src/app/meetings/meetings-overview/nav-bar/meeting-search.component.ts" timestamp="1547145084654">
+        <mark key="'" line="0" column="15" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="72" column="11" />
       </file>
       <file name="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeting.component.html" timestamp="1546447203747">
         <mark key="'" line="0" column="0" />
@@ -72,11 +72,11 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="69" />
       </file>
-      <file name="$USER_HOME$/ws/minutes/src/app/core/search/search.service.ts" timestamp="1546445481391">
-        <mark key="[" line="65" column="13" />
-        <mark key="]" line="65" column="13" />
+      <file name="$USER_HOME$/ws/minutes/src/app/core/search/search.service.ts" timestamp="1547143806874">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
         <mark key="^" line="65" column="13" />
-        <mark key="." line="65" column="13" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/minutes/.tslintrc" timestamp="1540985748446">
         <mark key="[" line="0" column="0" />
@@ -402,15 +402,15 @@
       <jump line="30" column="77" filename="$USER_HOME$/ws/minutes/src/app/core/search/search.service.ts" />
       <jump line="63" column="31" filename="$USER_HOME$/ws/minutes/src/app/meetings/meetings-overview/nav-bar/meeting-search.component.ts" />
       <jump line="74" column="0" filename="$USER_HOME$/ws/minutes/src/app/meetings/meetings-overview/nav-bar/meeting-search.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/ws/minutes/src/app/meetings/meetings-overview/nav-bar/meeting-search.component.ts" />
       <jump line="3" column="11" filename="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeting.component.css" />
       <jump line="36" column="16" filename="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeting.component.css" />
       <jump line="61" column="0" filename="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeting.component.css" />
       <jump line="0" column="0" filename="$USER_HOME$/ws/minutes/src/app/meetings/edit/edit-meeting.component.css" />
+      <jump line="0" column="15" filename="$USER_HOME$/ws/minutes/src/app/meetings/meetings-overview/nav-bar/meeting-search.component.ts" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>deploy</text>
+        <text encoding="base64">dGhpcy5wcmV2UXVlcnkgPT09IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb21wb25lbnRcPg==</text>
@@ -419,31 +419,31 @@
         <text encoding="base64">ICAgIGNvbG9yOiAjMjIyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHRoaXMub25DaGFuZ2UocGFyYW1zLnEpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucHJlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJlMmUiOiAibmcgZTJlIgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogIm5nIHRlc3QiLAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByZXZRdWVyeSA9ICcnOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAiZ2gtcGFnZXMtZGVwbG95Igo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlYXJjaElucHV0Lm5hdGl2ZUVsZW1lbnQudmFsdWUgPSBxdWVyeTsKICAgICAgICB0aGlzLm9uQ2hhbmdlKHBhcmFtcy5xKTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByZXZRdWVyeSA9IHF1ZXJ5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NhdmUgZGV0ZWN0ZWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5vblNhdmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByZXZRdWVyeSA9IHF1ZXJ5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
