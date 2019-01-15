@@ -39,6 +39,7 @@
         <mark key="." line="93" column="16" />
         <mark key="^" line="93" column="16" />
       </file>
+      <file name="$USER_HOME$/ws/flink-training-exercises/src/test/java/com/dataartisans/flinktraining/exercises/datastream_java/basics/RideCleansingScalaTest.java" timestamp="1547577898706" />
       <file name="$USER_HOME$/workspace/minutes/src/components/AddNote.tsx" timestamp="1540982362244">
         <mark key="[" line="4" column="8" />
         <mark key="]" line="4" column="15" />
@@ -206,6 +207,11 @@
         <mark key="]" line="8" column="11" />
         <mark key="^" line="8" column="11" />
         <mark key="." line="8" column="11" />
+      </file>
+      <file name="$USER_HOME$/ws/flink-training-exercises/src/main/java/com/dataartisans/flinktraining/exercises/datastream_java/utils/ExerciseBase.java" timestamp="1547577861330">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/ws/minutes/src/app/meetings/meetings-routing.module.ts" timestamp="1546105369999">
         <mark key="[" line="6" column="33" />
@@ -410,37 +416,37 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">dGhpcy5wcmV2UXVlcnkgPT09IA==</text>
+        <text>/Users/david/stuff/flink-training/trainingData/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb21wb25lbnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjMjIyOwo=</text>
+      <register name="0" type="4">
+        <text>$USER_HOME$/ws/flink-training-exercises/data/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHRoaXMub25DaGFuZ2UocGFyYW1zLnEpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByZXZRdWVyeSA9ICcnOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNlYXJjaElucHV0Lm5hdGl2ZUVsZW1lbnQudmFsdWUgPSBxdWVyeTsKICAgICAgICB0aGlzLm9uQ2hhbmdlKHBhcmFtcy5xKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIHRoaXMub25DaGFuZ2UocGFyYW1zLnEpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMucHJlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnByZXZRdWVyeSA9ICcnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByZXZRdWVyeSA9IHF1ZXJ5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlYXJjaElucHV0Lm5hdGl2ZUVsZW1lbnQudmFsdWUgPSBxdWVyeTsKICAgICAgICB0aGlzLm9uQ2hhbmdlKHBhcmFtcy5xKTs=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnByZXZRdWVyeSA9IHF1ZXJ5Owo=</text>
